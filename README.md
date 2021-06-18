@@ -1,4 +1,4 @@
-# Lista de componentes compatitível com Delphi Rio 10.3 release 3
+# Lista de componentes compatíveis com Delphi Rio 10.3 release 3
 
 
 * Absolute Database v7.91 - Full Source
